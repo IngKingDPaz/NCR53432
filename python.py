@@ -1,1 +1,1 @@
-print('upb')
+print('upb mintic')
